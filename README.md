@@ -69,7 +69,7 @@ VESM/
 
 ## Status of This Release
 
-v1.0.0 is a complete, production-ready public release: every document above is
+v1.1.0 is the current active methodology release; v1.0.0 remains the previous public release: every document above is
 finished, with no placeholders and no unresolved cross-references. See
 `releases/v1.0.0.md` for the full release notes, including what was deliberately
 left out of this release and why, and `CHANGELOG.md` for the detailed history.
