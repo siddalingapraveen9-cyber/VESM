@@ -1,10 +1,9 @@
 # VESM Version
 
-**Current Version:** 1.0.0
-**Status:** Released.
+**Current Version:** 1.1.0
+**Status:** Active.
 **Versioning Scheme:** [Semantic Versioning](https://semver.org/) — MAJOR.MINOR.PATCH.
-The full policy — what qualifies as a MAJOR, MINOR, or PATCH change, and how
-long-term compatibility is handled — is defined in
-`constitution/VERSION_POLICY.md`. This file records only the current status.
 
-See `releases/` for the version history and `CHANGELOG.md` for a running log of changes.
+VESM v1.1 introduces evidence-to-claim traceability, contract boundary verification, failure-path symmetry, change-surface minimization, freeze integrity, operational reality verification, verification-depth scaling, measured optimization, and the V1/V2 Scale Mode boundary.
+
+See `constitution/VERSION_POLICY.md` for the versioning policy, `CHANGELOG.md` for the running change log, and `releases/` for version history.

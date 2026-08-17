@@ -4,6 +4,24 @@ All notable changes to VESM are documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com/), versioning per
 `constitution/VERSION_POLICY.md`.
 
+
+## [1.1.0] — Active Methodology
+
+VESM v1.1 strengthens the methodology with explicit evidence, contract, failure-path, freeze, operational, optimization, and scaling controls.
+
+### Added
+
+- **Evidence-to-Claim Traceability Law** — verification claims must trace to concrete evidence.
+- **Contract Boundary Verification Law** — important module boundaries are verified on both sides.
+- **Failure-Path Symmetry Law** — important success paths have corresponding failure-path analysis.
+- **Change-Surface Minimization Law** — corrective changes use the smallest sufficient verified surface.
+- **Freeze Integrity Law** — post-freeze changes are explicitly classified.
+- **Operational Reality Gate** — mathematical, implementation, adversarial, operational, and release readiness are assessed separately.
+- **Verification Depth Scaling Law** — verification rigor scales with maturity and risk.
+- **Performance-Without-Regression Rule** — optimization requires measured, repeatable, non-regressive improvement.
+- **V1/V2 Scale Mode Boundary** — scaling begins with V2 only when measured operational evidence justifies it.
+- Expanded adversarial verification and explicit uncertainty handling.
+
 ## [1.0.0] — Public Release
 
 VESM v1.0.0 was developed component by component, each following VVBM applied to
